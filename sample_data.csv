@@ -1,0 +1,5 @@
+Latitude,Longitude,Zip_Code,Distance_to_airport,Noise_level,Convenience_score,Employment_opportunities,Air_quality_index,Average_height_commercial,Average_height_residential,Housing_price
+34.186225,-118.448395,91401,1.2,45.6,2.8,6.4,78.9,5.2,3.9,250000
+34.174586,-118.479109,91402,3.5,67.8,4.1,8.2,92.3,7.6,2.4,380000
+34.182839,-118.440963,91403,2.1,52.3,3.2,5.8,80.5,6.3,3.1,320000
+...

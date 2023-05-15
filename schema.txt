@@ -1,0 +1,9 @@
+Each row represents a data point or instance, and each column represents a variable. The columns are separated by commas, as it is a Comma-Separated Values (CSV) file format.
+
+The column headers are Latitude, Longitude, Zip_Code, Distance_to_airport, Noise_level, Convenience_score, Employment_opportunities, Air_quality_index, Average_height_commercial, Average_height_residential, and Housing_price.
+
+The latitude and longitude values represent the geographic coordinates of each data point. The zip code column provides the corresponding zip code for each location.
+
+The remaining columns (Distance_to_airport, Noise_level, Convenience_score, Employment_opportunities, Air_quality_index, Average_height_commercial, Average_height_residential, and Housing_price) contain simulated values for the respective variables.
+
+Please note that the latitude, longitude, and zip code values in this example are arbitrary and simulated for demonstration purposes. 
